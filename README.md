@@ -1,6 +1,6 @@
-1) Ao final do processamento,o valor da variável SOMA é 91
+Questão 1 - Ao final do processamento,o valor da variável SOMA é 91
 
-3)
+Questão 3 -
   a) 1, 3, 5, 7, 9
 
   b) 2, 4, 8, 16, 32, 64, 128
@@ -13,7 +13,7 @@
 
   f) 2,10, 12, 16, 17, 18, 19, 200
 
-4)
+Questão 4 -
   1) ligo o primeiro interruptor por alguns minutos e depois desligo.
   2) ao desligar o primeiro ligo o segundo interruptor e vou até a sala.
   3) na sala sala a lâmpada que estiver ligada é o segundo interruptor e a que ainda estiver quente é a primeira.
